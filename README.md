@@ -20,7 +20,7 @@ I am always open to new opportunities and collaborations. Whether you have a pro
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.instagram.com/_foysal_likhon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/shah-arefin-ahmed-b23b99219" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_foysal_likhon_?igsh=NzgwMjBrbmRybGs4&fbclid=IwY2xjawE368BleHRuA2FlbQIxMAABHdZcUoyDowzSNIdGjUYxOf7EMkgsv8HZZGT6V_eKakchofE4Z8Lejtd8Gg_aem_rNBpEKnao5Y-k8wcXpMx1w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_foysal_likhon_" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009256108068&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arefin.ahmed.3956/" height="30" width="40" /></a>
 </p>
 </p>
